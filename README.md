@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaushalandy
+- 👋 Hi, I’m Kaushal Kishor @kaushalandy 
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on New App Ideas
